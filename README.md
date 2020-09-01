@@ -1,6 +1,8 @@
 # Brazilian-Customer-Satisfaction-Surveys-and-Formal-Complaints
 In brazil is common sense that telephonic services have several problems with its customers. However, most of the companies in their ads claim they have high satisfaction from their customers, according to their surveys. Using this context as motivation we bring the question. How do telephonic services perform compared to other services?
 To answer this question and the ones that arise from the data exploratory analysis, we are going to analyze a dataset from the Brazil's consumer protection agency. 
+Article version
+https://www.linkedin.com/posts/tiago-rosa-47130057_eda-telecommunication-industry-complaints-activity-6706416472274550784-bAdw
 <br>
 
 This project is aims at collecting, Cleaning and correcting anomalies data from government, using data exploratory and visualizing 
